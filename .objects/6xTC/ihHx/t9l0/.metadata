@@ -1,0 +1,15 @@
+﻿{
+  "Id": "t9l0kUiHCEOvt4FUP_QxwA",
+  "Reference": "4ZXOjGqlUEqqRrC813bzzg/t9l0kUiHCEOvt4FUP_QxwA",
+  "ParentRef": "4ZXOjGqlUEqqRrC813bzzg/ihHxTOWIH0K0MJBBizUi-g",
+  "Name": "Select Hotel",
+  "Type": "Screen",
+  "Created": "2022-05-06T07:59:22.8139253Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-06T12:30:09.6829685Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

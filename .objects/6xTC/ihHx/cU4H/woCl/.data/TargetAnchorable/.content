@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://adactinhotelapp.com/BookHotel.php" ContentHash="DeiULOWFeECRjT-aLOGEdA" DesignTimeRectangle="245, 789, 188, 38" ElementType="DropDown" FriendlyName="'- Select Month -'" FullSelectorArgument="&lt;webctrl id='cc_exp_month' tag='SELECT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='cc_exp_month' tag='SELECT' type='' aaname='' /&gt;" Guid="27a801f1-fd6e-4deb-9fed-5e227d73fff2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Book A Hotel' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="11, 786, 231, 44" FriendlyName="'Expiry Date*'" FullSelectorArgument="&lt;webctrl parentid='book_hotel_form' tag='TABLE' /&gt;&lt;webctrl tableRow='17' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='book_hotel_form' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='Expiry Date ' check:text='Expiry Date*' /&gt;" SearchSteps="Selector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1JJdee1Akd0els10QoEiM3g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0eekwZn5fxE-3qslHAxP4Hg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="59aab023eab26183f2646073c1a1e6df.png" xmlns="">0OBJcJ4iK-0iPlkc9J-grLg</imageRef>
+</TargetAnchorable>

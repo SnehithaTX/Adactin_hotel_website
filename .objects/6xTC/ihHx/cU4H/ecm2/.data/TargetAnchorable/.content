@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://adactinhotelapp.com/SelectHotel.php" ContentHash="2Iu3JXp_HkqfOUzVNHMs1w" DesignTimeRectangle="975, 746, 140, 27" ElementType="InputBox" FriendlyName="'Deluxe'" FullSelectorArgument="&lt;webctrl id='room_type_0' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl id='room_type_0' tag='INPUT' type='text' aaname='' /&gt;" Guid="e4f4ee44-6b61-476d-b3c0-292265dddf56" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Select Hotel' /&gt;" SearchSteps="Selector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="968, 673, 149, 65" FriendlyName="'Rooms Type'" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;form&amp;gt;table&amp;gt;tbody&amp;gt;tr&amp;gt;td&amp;gt;table' parentid='select_form' tag='TABLE' /&gt;&lt;webctrl tableCol='8' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='select_form' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='' check:text='Rooms Type' /&gt;" SearchSteps="Selector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">13KEVHl_4-kC4XY4nCLcUSw</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0ZvRSqoAjm0SsGRI1ZdA2Jg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="32762f93e265a411b6a865b70c5f3d16.png" xmlns="">0hychueNW40O-BhKGT04kTA</imageRef>
+</TargetAnchorable>

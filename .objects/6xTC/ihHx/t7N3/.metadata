@@ -1,0 +1,12 @@
+﻿{
+  "Id": "t7N3Hbp2lUWSgFzObASQZw",
+  "Reference": "4ZXOjGqlUEqqRrC813bzzg/t7N3Hbp2lUWSgFzObASQZw",
+  "ParentRef": "4ZXOjGqlUEqqRrC813bzzg/ihHxTOWIH0K0MJBBizUi-g",
+  "Name": "Room_type",
+  "Type": "Screen",
+  "Created": "2022-05-09T07:42:33.7191763Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-09T07:42:33.7191763Z"
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ecm223wHCkmVbE4-UdtnJQ",
+  "Reference": "4ZXOjGqlUEqqRrC813bzzg/ecm223wHCkmVbE4-UdtnJQ",
+  "ParentRef": "4ZXOjGqlUEqqRrC813bzzg/cU4HdmGEi0qf5SIHiv42KQ",
+  "Name": "Room_type",
+  "Type": "Element",
+  "TaxonomyType": "input",
+  "Created": "2022-05-09T07:42:47.5366595Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-09T07:44:11.0655133Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

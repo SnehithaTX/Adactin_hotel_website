@@ -1,0 +1,16 @@
+﻿{
+  "Id": "KwFTqubPVkupS86zjPhiug",
+  "Reference": "4ZXOjGqlUEqqRrC813bzzg/KwFTqubPVkupS86zjPhiug",
+  "ParentRef": "4ZXOjGqlUEqqRrC813bzzg/cU4HdmGEi0qf5SIHiv42KQ",
+  "Name": "Credit Card Type",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2022-05-05T09:08:54.1279528Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-05T09:09:51.6747295Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

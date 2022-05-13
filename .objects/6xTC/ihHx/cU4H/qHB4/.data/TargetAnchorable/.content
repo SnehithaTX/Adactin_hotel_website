@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://adactinhotelapp.com/BookHotel.php" ContentHash="jAwkRFW7vk-722RDc1HbEg" DesignTimeRectangle="245, 763, 387, 47" ElementType="InputBox" FriendlyName="'INPUT last_name'" FullSelectorArgument="&lt;webctrl id='last_name' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='last_name' tag='INPUT' type='text' aaname='' /&gt;" Guid="430123d1-a1a1-446e-817b-712883b7330e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Book A Hotel' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="11, 760, 231, 53" FriendlyName="'Last Name*'" FullSelectorArgument="&lt;webctrl parentid='book_hotel_form' tag='TABLE' /&gt;&lt;webctrl tableRow='13' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='book_hotel_form' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='Last Name ' check:text='Last Name*' /&gt;" SearchSteps="Selector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1pFnMKmC1WkaY3Gv5uVYywQ</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0_mWomGjuL0CSgM-uy6V4bg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="23d6512cda76685fab6167b9aeaa12fa.png" xmlns="">0apuFcrgOD0Kp77Ai8SqUkg</imageRef>
+</TargetAnchorable>

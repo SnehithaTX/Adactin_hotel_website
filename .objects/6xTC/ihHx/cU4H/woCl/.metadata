@@ -1,0 +1,16 @@
+﻿{
+  "Id": "woCl6eoLkEO3iNU5qJRgNw",
+  "Reference": "4ZXOjGqlUEqqRrC813bzzg/woCl6eoLkEO3iNU5qJRgNw",
+  "ParentRef": "4ZXOjGqlUEqqRrC813bzzg/cU4HdmGEi0qf5SIHiv42KQ",
+  "Name": "Expiry Month",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Created": "2022-05-05T09:56:25.9769761Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-05T10:02:14.5242326Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

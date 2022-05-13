@@ -1,0 +1,16 @@
+﻿{
+  "Id": "ErQGotuhKESqPENfAGE_jA",
+  "Reference": "4ZXOjGqlUEqqRrC813bzzg/ErQGotuhKESqPENfAGE_jA",
+  "ParentRef": "4ZXOjGqlUEqqRrC813bzzg/t9l0kUiHCEOvt4FUP_QxwA",
+  "Name": "Select Hotel Close",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2022-05-06T12:30:25.1934943Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-06T12:31:40.4996558Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

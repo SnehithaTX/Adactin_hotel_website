@@ -1,0 +1,16 @@
+﻿{
+  "Id": "r9MOH3tLjkm_8xAbI43Qtw",
+  "Reference": "4ZXOjGqlUEqqRrC813bzzg/r9MOH3tLjkm_8xAbI43Qtw",
+  "ParentRef": "4ZXOjGqlUEqqRrC813bzzg/cU4HdmGEi0qf5SIHiv42KQ",
+  "Name": "Cvv no",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-05T09:11:41.699657Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-05T09:12:40.5681932Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

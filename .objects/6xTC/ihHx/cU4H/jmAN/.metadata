@@ -1,0 +1,16 @@
+﻿{
+  "Id": "jmANQSQiQUWVbSGYf2lgRQ",
+  "Reference": "4ZXOjGqlUEqqRrC813bzzg/jmANQSQiQUWVbSGYf2lgRQ",
+  "ParentRef": "4ZXOjGqlUEqqRrC813bzzg/cU4HdmGEi0qf5SIHiv42KQ",
+  "Name": "Credit Card number",
+  "Type": "Element",
+  "TaxonomyType": "input",
+  "Created": "2022-05-05T09:03:16.9193857Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-05T09:04:19.8954473Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,16 @@
+﻿{
+  "Id": "cPKqvJyh10qIY5TDZgDK6w",
+  "Reference": "4ZXOjGqlUEqqRrC813bzzg/cPKqvJyh10qIY5TDZgDK6w",
+  "ParentRef": "4ZXOjGqlUEqqRrC813bzzg/cU4HdmGEi0qf5SIHiv42KQ",
+  "Name": "BillingAddress",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-05T09:01:14.4425813Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-05T09:02:15.0184197Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://adactinhotelapp.com/SelectHotel.php" ContentHash="ISWogi40LUS__2toHMlGAQ" DesignTimeRectangle="525, 672, 162, 27" ElementType="InputBox" FriendlyName="'06/05/2022'" FullSelectorArgument="&lt;webctrl id='arr_date_0' tag='INPUT' type='text' /&gt;" FuzzySelectorArgument="&lt;webctrl id='arr_date_0' tag='INPUT' type='text' aaname='' /&gt;" Guid="78b6191b-de52-4e51-98be-cdac19d49b59" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Select Hotel' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="525, 619, 141, 25" FriendlyName="'Arrival Date'" FullSelectorArgument="&lt;webctrl tableCol='5' tag='STRONG' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' tag='STRONG' aaname='Arrival Date ' check:text='Arrival Date' /&gt;" SearchSteps="Selector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">9ArLKj9aDnUmRyh4RTu3S6g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">08Cyq8SSvgUmI1WWKTt_05g</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="d64fa35bdebed8e62f5fba6dd375d229.png" xmlns="">08SdIiyz3FUi1WbEtxsjGcw</imageRef>
+</TargetAnchorable>

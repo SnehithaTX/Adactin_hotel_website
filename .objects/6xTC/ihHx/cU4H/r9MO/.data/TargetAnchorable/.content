@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="http://adactinhotelapp.com/BookHotel.php" ContentHash="GFMWa_pB_0qHgAuyCUy8Yw" DesignTimeRectangle="245, 851, 387, 47" ElementType="InputBox" FriendlyName="'INPUT cc_cvv'" FullSelectorArgument="&lt;webctrl id='cc_cvv' tag='INPUT' /&gt;" FuzzySelectorArgument="&lt;webctrl id='cc_cvv' tag='INPUT' type='text' aaname='' /&gt;" Guid="d35cab48-5166-4c84-8773-84702edd7e63" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Adactin.com - Book A Hotel' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="11, 848, 231, 53" FriendlyName="'CVV Number*'" FullSelectorArgument="&lt;webctrl parentid='book_hotel_form' tag='TABLE' /&gt;&lt;webctrl tableRow='18' tag='TD' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='book_hotel_form' tag='TABLE' /&gt;&lt;webctrl type='' tag='TD' aaname='CVV Number ' check:text='CVV Number*' /&gt;" SearchSteps="Selector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1sK9BlHl79EKNvNh43qbg5g</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0StVqO8VpZU2OagoyPwpXpg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="4fafe242f1e5a44a93170be8122e1f48.png" xmlns="">0mCm1YfzxEUucd2hghbAFtQ</imageRef>
+</TargetAnchorable>

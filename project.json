@@ -1,0 +1,98 @@
+{
+  "name": "Adactin_hotel_website",
+  "description": "Test Automation Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Login_library": "[1.0.10]",
+    "ReporterForUiPath.Activities": "[2.0.0]",
+    "UiPath.Excel.Activities": "[2.12.2-preview]",
+    "UiPath.System.Activities": "[22.4.1]",
+    "UiPath.Testing.Activities": "[22.4.0-preview]",
+    "UiPath.UIAutomation.Activities": "[21.10.5]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.10.5.0",
+  "projectVersion": "1.0.105967093",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Tests",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "53cc44aa-4f62-43b6-bea0-cef62d963232",
+        "fileName": "TestCases\\TC_102.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "9241d4f2-829a-4a71-b9fc-336d80397f97",
+        "fileName": "TestCases\\TC_103.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "bf6ca4b7-be06-4fff-84c6-a790ead79fea",
+        "fileName": "TestCases\\TC_105.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "253ecaa7-6a3f-4e0a-90b5-847751108f8f",
+        "fileName": "TestCases\\TC_101.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "98146a27-9db0-4da1-a9c4-b8833145397c",
+        "fileName": "Main.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "d2ac55b7-c22f-4729-8eb0-d4904794ed75",
+        "fileName": "TestCases\\TC_104.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "dc1b04e9-05d7-4828-9116-dd8b54f363ea",
+        "fileName": "TestCases\\TC_106.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "4bdb4a4a-b557-4dd1-af69-e3f2b434bae1",
+        "fileName": "TestCases\\TC_107.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "f75c73d4-36ea-4768-a20b-da9ef88e1399",
+        "fileName": "TestCases\\TC_108.xaml"
+      }
+    ],
+    "modernBehavior": true
+  },
+  "expressionLanguage": "VisualBasic",
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}

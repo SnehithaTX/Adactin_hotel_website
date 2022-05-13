@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable ContentHash="5cjbUkP55UmE1ORGJSEVfQ" DesignTimeRectangle="1862, 11, 69, 44" ElementType="Button" FriendlyName="'Close'" FullSelectorArgument="&lt;ctrl name='Adactin.com - Search Hotel - Google Chrome - Muthulur' role='pane' /&gt;&lt;ctrl name='Google Chrome' role='pane' /&gt;&lt;ctrl name='Close' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Adactin.com - Search Hotel - Google Chrome - Muthulur' role='pane' /&gt;&lt;ctrl name='Google Chrome' role='pane' /&gt;&lt;ctrl name='Close' role='push button' automationid='' check:text='Close' /&gt;" Guid="e221c32a-7004-46c7-8373-9cd005a2de5c" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Adactin.com - Search Hotel - Google Chrome' /&gt;" SearchSteps="Selector" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="1724, 11, 69, 44" ElementType="Button" FriendlyName="'Minimize'" FullSelectorArgument="&lt;ctrl name='Adactin.com - Search Hotel - Google Chrome - Muthulur' role='pane' /&gt;&lt;ctrl name='Google Chrome' role='pane' /&gt;&lt;ctrl name='Minimize' role='push button' /&gt;" FuzzySelectorArgument="&lt;ctrl name='Adactin.com - Search Hotel - Google Chrome - Muthulur' role='pane' /&gt;&lt;ctrl name='Google Chrome' role='pane' /&gt;&lt;ctrl name='Minimize' role='push button' automationid='' check:text='Minimize' /&gt;" SearchSteps="Selector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1nLdlTg_NREm3TorO2TFSsg</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0WsMmil5B00OzZJ-ZKp7Zuw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="f63ae3022555dce70baada0a13e3b3e7.png" xmlns="">0nyoQBXhPu0CxtY9pIRqD9Q</imageRef>
+</TargetAnchorable>

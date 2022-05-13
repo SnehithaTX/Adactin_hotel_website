@@ -1,0 +1,15 @@
+﻿{
+  "Id": "a2h5Xgfvv0iC030BszwxVQ",
+  "Reference": "4ZXOjGqlUEqqRrC813bzzg/a2h5Xgfvv0iC030BszwxVQ",
+  "ParentRef": "4ZXOjGqlUEqqRrC813bzzg/ihHxTOWIH0K0MJBBizUi-g",
+  "Name": "Search hotel",
+  "Type": "Screen",
+  "Created": "2022-05-06T12:16:40.8566715Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-06T12:17:06.8314814Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Id": "wP-PpS9hF0meqQ4xarSdhw",
+  "Reference": "4ZXOjGqlUEqqRrC813bzzg/wP-PpS9hF0meqQ4xarSdhw",
+  "ParentRef": "4ZXOjGqlUEqqRrC813bzzg/a2h5Xgfvv0iC030BszwxVQ",
+  "Name": "Get Text 'Rooms'",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Created": "2022-05-08T18:57:43.5411831Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-05-08T18:57:43.5411831Z"
+}
